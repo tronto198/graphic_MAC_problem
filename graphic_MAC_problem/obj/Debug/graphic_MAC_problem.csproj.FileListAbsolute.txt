@@ -1,0 +1,39 @@
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csprojAssemblyReference.cache
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.Form1.resources
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.Properties.Resources.resources
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.GenerateResource.cache
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.CoreCompileInputs.cache
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.exe.config
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.exe
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.pdb
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.exe
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.pdb
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\ClassLibrary1.dll
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\ClassLibrary1.pdb
+C:\Users\HJ\Desktop\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.CopyComplete
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.exe.config
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.exe
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.pdb
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\ClassLibrary1.dll
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\ClassLibrary1.pdb
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csprojAssemblyReference.cache
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.Form1.resources
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.Properties.Resources.resources
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.GenerateResource.cache
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.CoreCompileInputs.cache
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.CopyComplete
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.exe
+C:\Users\HJ\OneDrive - 한밭대학교\바탕 화면\Projects\Visual Studio\source\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.pdb
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.exe.config
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.exe
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\graphic_MAC_problem.pdb
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\ClassLibrary1.dll
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\bin\Debug\ClassLibrary1.pdb
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csprojAssemblyReference.cache
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.Form1.resources
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.Properties.Resources.resources
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.GenerateResource.cache
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.CoreCompileInputs.cache
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.csproj.CopyComplete
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.exe
+C:\Users\HJ\Desktop\Projects\알고리즘\graphic_MAC_problem\graphic_MAC_problem\obj\Debug\graphic_MAC_problem.pdb
